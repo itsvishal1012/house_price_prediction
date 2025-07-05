@@ -77,8 +77,7 @@ This project uses two primary datasets:
 
 ---
 
-### | Library                 | Purpose                                                   |
-| ----------------------- | --------------------------------------------------------- |
+### | Library             | Purpose                                                   |
 | `pandas`                | Data manipulation                                         |
 | `numpy`                 | Numerical computations                                    |
 | `matplotlib`, `seaborn` | Data visualization                                        |
